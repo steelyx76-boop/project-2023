@@ -2,5 +2,5 @@
 console.log('🚀 Application générée avec Prompt To App !');
 
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('✅ DOM charrrgé, application prête !');
+    console.log('✅ DOM chargé, application prête !');
 });
